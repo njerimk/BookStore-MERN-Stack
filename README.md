@@ -20,7 +20,7 @@
 
 
 ### Introduction
-#### Thanks for stopping by! This is a bookstore site that was created with the goal of becoming better aquainted with using MERN (MongoDB, Express.js, ReactJS and Node.js) all together. This will be one of several future projects to practice utilizing MERN stack. In the bookstore you are able to write information on a book (real or not) and have it added to the database.
+#### Thanks for stopping by! This is a bookstore site that was created with the goal of becoming better aquainted with using MERN (MongoDB, Express.js, ReactJS and Node.js) all together. This will be one of several future projects to practice utilizing MERN stack. In the bookstore you are able to write information on a book (real or not) and have it added to the database. Please note that you will have to create a mongodb account and make sure to link your username and password in the config.js file.
 
 ### Purpose of App
 #### This is a practice project in order to familiarize myself with MERN stack.
